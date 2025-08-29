@@ -1,6 +1,6 @@
 ### stats507Fa2025
 
-Welcome to the STATS507: Data Analysis in Python course repository! This repository is dedicated to coursework and in-class practices for the course.
+Welcome to the STATS507: Data Analysis in Python course repository!
 
 STATS507 focuses on concepts and techniques of data analysis using Python. Throughout this course, we learn to manipulate, analyze, and visualize data. The skills gained will be applicable in various fields, including statistics, data science, and research.
 
